@@ -1,1 +1,1 @@
-# aulaSite
+# pro-c25-template
